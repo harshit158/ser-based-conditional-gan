@@ -5,7 +5,7 @@ An image showing the overall pipeline
 ![alt text](images/ser_cover.jpeg 'ser')
 
 A GIF showing working of web app
-![alt text]('./images/demo.gif')
+![alt text]('images/demo.gif')
 
 ## Results
 
