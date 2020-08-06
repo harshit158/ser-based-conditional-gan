@@ -4,7 +4,7 @@ Generating human faces through conditional GANs which are conditioned on emotion
 An image showing the overall pipeline
 ![alt text](images/ser_cover.jpeg 'ser')
 
-Below is a short demo of the web app showing generation of human faces based on emotion identified from human speech
+Below is a short demo of the web app showing generation of human faces based on emotion identified from human speech.
 ![alt text](images/demo.gif)
 
 ## Results
