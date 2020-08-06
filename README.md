@@ -5,6 +5,14 @@ An image showing the overall pipeline
 
 A GIF showing working of web app
 
+## Results
+
+Some images for each type of emotions
+ 
+<br/>
+
+## Getting Started
+
 ### Prerequisites
 
 <br/>
@@ -53,12 +61,6 @@ $ python train_cgan.py
 
 ### Prediction
 
-<br/>
-
-## Results
-
-Some images for each type of emotions
- 
 <br/>
 
 ## References
