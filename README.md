@@ -2,7 +2,7 @@
 Generating human faces through conditional GANs which are conditioned on emotions identified from a human speech using SER (Speech Emotion Recognition)
 
 An image showing the overall pipeline
-![alt text]('./images/ser_cover.jpeg')
+![alt text](images/ser_cover.jpeg 'ser')
 
 A GIF showing working of web app
 
