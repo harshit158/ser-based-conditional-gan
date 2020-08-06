@@ -9,6 +9,27 @@ A GIF showing working of web app
 
 <br/>
 
+### Directory Structure
+> 
+
+    Project
+    
+    ├── speech_emotion_recognition
+    │   ├── code
+    │   │   ├── train_ser.py
+    │   │   ├── test_ser.py
+    │   ├── data
+    │   ├── pretrained_weights
+    
+    ├── conditional_gan
+    │   ├── code
+    │   │   ├── train_cgan.py
+    │   │   ├── test_cgan.py
+    │   ├── data
+    │   ├── pretrained_weights
+    
+    ├── streamlit_webapp
+
 ### Data
 For SER : 
 <br/>
