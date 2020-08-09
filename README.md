@@ -20,6 +20,23 @@ Generated samples
 ## Getting Started
 
 ### Prerequisites
+```bash
+pandas==1.0.4
+Keras==2.3.1
+librosa==0.7.2
+streamlit==0.61.0
+tensorflow==2.0.0
+numpy==1.18.1
+tqdm==4.42.0
+scipy==1.4.1
+tensorflow_hub==0.8.0
+matplotlib==3.1.3
+Flask==1.1.2
+ipython==7.17.0
+Pillow==7.2.0
+pyaudio==0.2.11
+scikit_learn==0.23.2
+```
 
 <br/>
 
