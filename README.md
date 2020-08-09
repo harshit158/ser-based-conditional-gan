@@ -68,22 +68,31 @@ We are interested in the "fer2013.csv" file from the data bundle. A sample file 
 
 ### Model Trainining 
 
-To train both the models separately, run commands below. 
+For each of SER and cGAN, there are two separate Jupyter Notebook files, one for training and one for prediction. <br/>
 
-For SER:
+#### For SER:
+
+Training :</br>
 ```bash
-$ python train_ser.py
+./speech_emotion_recognition/code/ser_training.ipynb
+```
+
+Prediction :<br/>
+```bash
+./speech_emotion_recognition/code/ser_prediction.ipynb
 ```
 
 For cGAN:
+Training :</br>
 ```bash
-$ python train_cgan.py
+./conditional_gan/code/cgan_training.ipynb
+```
+
+Prediction :<br/>
+```bash
+./conditional_gan/code/cgan_prediction.ipynb
 ```
 <br>
-
-### Prediction
-
-<br/>
 
 ## References
 
