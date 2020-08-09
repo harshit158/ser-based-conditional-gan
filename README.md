@@ -124,6 +124,13 @@ The pretrained weights corresponding to the best model are already put at this l
 <br>
 
 ## References
+1. Mirza, M. and Osindero, S., 2014. Conditional generative adversarial nets. arXiv preprint arXiv:1411.1784.
+2. Livingstone, S.R. and Russo, F.A., 2018. The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English. PloS one, 13(5), p.e0196391. 
+3. Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y., 2014. Generative adversarial nets. In Advances in neural information processing systems (pp. 2672-2680).
+4. Francois Chollet. 2017. Deep Learning with Python (1st. ed.). Manning Publications Co., USA.
+5. https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+6. https://medium.com/@ma.bagheri/a-tutorial-on-conditional-generative-adversarial-nets-keras-implementation-694dcafa6282 
+7. https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
 
 <br/>
 
