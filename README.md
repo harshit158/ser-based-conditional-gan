@@ -30,16 +30,25 @@ Generated samples
     
     ├── speech_emotion_recognition
     │   ├── code
-    │   │   ├── train_ser.py
-    │   │   ├── test_ser.py
+    │   │   ├── ser_training.ipynb
+    │   │   ├── ser_prediction.ipynb
     │   ├── data
+    │   │   ├── Audio_Speech_Actors_01-24
+    │   │   │   ├── Actor_01
+    │   │   │   │   ├── 03-01-01-01-01-01-01.wav
+    │   │   │   │   ├── 03-01-01-01-01-02-01.wav
+    │   │   │   │   ...
+    │   │   │   ├── Actor_02
+    │   │   │   ...
+    │   │   │   ├── Actor_24
     │   ├── weights
     
     ├── conditional_gan
     │   ├── code
-    │   │   ├── train_cgan.py
-    │   │   ├── test_cgan.py
+    │   │   ├── cgan_training.ipynb
+    │   │   ├── cgan_prediction.ipynb
     │   ├── data
+    │   │   ├── fer2013.csv
     │   ├── weights
     
     ├── streamlit_webapp
