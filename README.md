@@ -33,14 +33,14 @@ Generated samples
     │   │   ├── train_ser.py
     │   │   ├── test_ser.py
     │   ├── data
-    │   ├── pretrained_weights
+    │   ├── weights
     
     ├── conditional_gan
     │   ├── code
     │   │   ├── train_cgan.py
     │   │   ├── test_cgan.py
     │   ├── data
-    │   ├── pretrained_weights
+    │   ├── weights
     
     ├── streamlit_webapp
 
@@ -72,23 +72,26 @@ For each of SER and cGAN, there are two separate Jupyter Notebook files, one for
 
 #### For SER:
 
-Training :</br>
+##### Training :</br>
 ```bash
 ./speech_emotion_recognition/code/ser_training.ipynb
 ```
+The weights obtained are stored in ./speech_emotion_recognition/weights <br/>
+The pretrained weights corresponding to the best model are already put at this location.
 
-Prediction :<br/>
+##### Prediction :<br/>
 ```bash
 ./speech_emotion_recognition/code/ser_prediction.ipynb
 ```
 
-For cGAN:
-Training :</br>
+#### For cGAN:
+
+##### Training :</br>
 ```bash
 ./conditional_gan/code/cgan_training.ipynb
 ```
 
-Prediction :<br/>
+##### Prediction :<br/>
 ```bash
 ./conditional_gan/code/cgan_prediction.ipynb
 ```
