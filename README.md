@@ -9,7 +9,11 @@ Below is a short demo of the web app showing generation of human faces based on 
 
 ## Results
 
-Some images for each type of emotions
+Training samples
+![alt text](images/sample_images.png)
+
+Generated samples
+![alt text](images/generated_images.png)
  
 <br/>
 
