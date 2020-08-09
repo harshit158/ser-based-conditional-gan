@@ -46,8 +46,22 @@ Generated samples
 
 ### Data
 For SER : 
+The dataset can be downloaded at:<br/>
+https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio <br/>
+and should be put it in the location<br/>
+> ./speech_emotion_recognition/data/ <br/>
+
+It consists of speech audios in the voice of 24 actors. 5 sample audio file by the first actor has been put in the above location as an example.
+
 <br/>
 For GANs : 
+The dataset can be downloaded at:<br/>
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data <br/>
+and should be put it in the location<br/>
+> ./conditional_gan/data/ <br/>
+
+We are interested in the "fer2013.csv" file from the data bundle. A sample file containing data for only 5 faces has been put as an example.
+
 <br/>
 
 ### Model Trainining 
