@@ -94,7 +94,9 @@ We are interested in the "fer2013.csv" file from the data bundle. A sample file 
 
 ### Model Trainining 
 
-[Note: Please host and run these files on <b>Google Colab</b>] <br/>
+[Note1: Please host and run these files on <b>Google Colab</b>] <br/>
+[Note2: Please mount the drive where data files are present(follow the directory structure)] <br/>
+
 For each of SER and cGAN, there are two separate Jupyter Notebook files, one for training and one for prediction. <br/>
 
 #### For SER:
