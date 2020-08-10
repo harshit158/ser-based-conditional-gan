@@ -36,5 +36,5 @@ def predict(model, emotion:'int'):
 	pyplot.imsave("generated_img.jpg", X[0,:,:,0], cmap="gray")
 
 if __name__ == '__main__':
-	model = load_model('/home/hs/Desktop/Projects/speech_emotion_recognition/cgan_epoch400.h5')
+	model = load_model('./cgan_weight.h5')
 	predict(model, 4)

@@ -6,13 +6,13 @@ from tensorflow.keras.models import load_model
 
 # @st.cache()
 def get_ser_model():
-	weights = '/home/hs/Desktop/Projects/speech_emotion_recognition/emotion-recognition/saved_models/Emotion_Voice_Detection_Model.h5'
+	weights = './ser_weight.h5'
 	model = load_model(weights)
 	return model
 
 # @st.cache()
 def get_cgan_model():
-	weights = '/home/hs/Desktop/Projects/speech_emotion_recognition/cgan_epoch400.h5'
+	weights = './cgan_weight.h5'
 	model = load_model(weights)
 	return model
 
